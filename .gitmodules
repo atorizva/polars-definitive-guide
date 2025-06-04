@@ -1,0 +1,3 @@
+[submodule "python-polars-the-definitive-guide"]
+	path = python-polars-the-definitive-guide
+	url = https://github.com/jeroenjanssens/python-polars-the-definitive-guide.git
